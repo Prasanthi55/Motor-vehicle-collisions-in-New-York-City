@@ -24,5 +24,11 @@ The analysis employed the following methods:
 • Bar Charts: Used for comparing injuries by vehicle type and identifying streets with high pedestrian injuries.
 • Heatmap: Utilized for mapping collision density and visualizing high-risk zones.
 
+Research Questions:
+The analysis addresses the following questions based on the motor vehicle collision dataset:
+1. Which streets have the highest number of pedestrian injuries, and what improvements (e.g., better pedestrian crossings) can reduce these risks?
+2. What are the spatial patterns of collision density, and how can urban planning address high-risk zones?
+3. How have fatalities changed over time, and what trends can we observe?
+
 
 
