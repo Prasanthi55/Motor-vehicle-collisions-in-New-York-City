@@ -23,6 +23,6 @@ The analysis employed the following methods:
 • Line Chart: Used to analyze trends in fatalities over time.
 • Bar Charts: Used for comparing injuries by vehicle type and identifying streets with high pedestrian injuries.
 • Heatmap: Utilized for mapping collision density and visualizing high-risk zones.
-![image](https://github.com/user-attachments/assets/804ff78c-2cf3-431e-ab9a-34ff70c0dd85)
+
 
 
