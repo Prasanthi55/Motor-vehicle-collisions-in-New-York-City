@@ -5,7 +5,7 @@ The dataset used for this analysis, NYC Motor Vehicle Collisions,
 
 https://github.com/Prasanthi55/Motor-vehicle-collisions-in-New-York-City/blob/main/Picture%201.png> DashBoard</a>
 
-Analysis-1: Variables Used 
+# Analysis-1: Variables Used 
 
 The key variables utilized in this analysis include:
 • Crash Date: This variable was used to analyze yearly trends in fatalities and injuries.
@@ -14,7 +14,7 @@ The key variables utilized in this analysis include:
 • Street Name (On Street Name): This variable helped identify specific streets with the highest pedestrian injuries.
 • Latitude and Longitude: These geographic variables were essential for mapping collision density and identifying high-risk zones.
 
-Anlaysis-2: Methods Used 
+# Anlaysis-2: Methods Used 
 
 The analysis employed the following methods:
 1. Data Cleaning: Missing or irrelevant data, such as null values in Vehicle Type Code and Street Name, were removed to ensure accuracy.
@@ -24,7 +24,7 @@ The analysis employed the following methods:
 • Bar Charts: Used for comparing injuries by vehicle type and identifying streets with high pedestrian injuries.
 • Heatmap: Utilized for mapping collision density and visualizing high-risk zones.
 
-Research Questions:
+# Research Questions:
 The analysis addresses the following questions based on the motor vehicle collision dataset:
 1. Which streets have the highest number of pedestrian injuries, and what improvements (e.g., better pedestrian crossings) can reduce these risks?
 2. What are the spatial patterns of collision density, and how can urban planning address high-risk zones?
