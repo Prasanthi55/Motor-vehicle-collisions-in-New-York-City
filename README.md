@@ -4,7 +4,7 @@ The Motor Vehicle Collision Insights Dashboard provides a comprehensive visualiz
 The dataset used for this analysis, NYC Motor Vehicle Collisions,
 
 # Dashboard
-https://github.com/Prasanthi55/Motor-vehicle-collisions-in-New-York-City/blob/main/Picture%201.png> DashBoard</a>
+[https://github.com/Prasanthi55/Motor-vehicle-collisions-in-New-York-City/blob/main/Picture%201.png](https://drive.google.com/file/d/1LoLDpbQ2sq4fZVKzAU510janP4_yPJrO/view?usp=drive_link)> DashBoard</a>
 
 # Analysis-1: Variables Used 
 
@@ -14,6 +14,7 @@ The key variables utilized in this analysis include:
 • Number of Persons Injured/Killed: This was critical for quantifying the severity of collisions.
 • Street Name (On Street Name): This variable helped identify specific streets with the highest pedestrian injuries.
 • Latitude and Longitude: These geographic variables were essential for mapping collision density and identifying high-risk zones.
+
 
 # Anlaysis-2: Methods Used 
 
